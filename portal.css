@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(193, 229, 229);
+}
+#m{
+    background-color: black;
+    height:45px;
+    width: 100%;
+    text-align: center;
+    margin: 0%;
+    margin-top: 25px;
+}
+div{
+    width:fit-content;
+    /* background-color: aquamarine; */
+    text-align: center;
+    display: inline-block;
+    margin: 70px;
+    margin-top: 0%;
+    color: azure;
+
+}
+#s{
+display: inline;
+}
+#t{
+    display: inline;
+}
+#s{
+    text-decoration: dotted;
+}
